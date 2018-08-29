@@ -1,0 +1,18 @@
+ja:
+  active_admin:
+    globalize:
+      translations: "Translations"
+      language:
+        de: "ドイツ語"
+        en: "英語"
+        es: "スペイン語"
+        fr: "フランス語"
+        hu: "ハンガリー語"
+        it: "イタリア語"
+        pt-BR: "ポルトガル語"
+        pt-PT: "ポルトガル語 (ポルトガル)"
+        tr: "トルコ語"
+        he: "ヘブライ語"
+        ar: "アラビア語"
+        ja: "日本語"
+
